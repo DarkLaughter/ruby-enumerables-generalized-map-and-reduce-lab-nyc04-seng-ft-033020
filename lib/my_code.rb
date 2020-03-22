@@ -12,5 +12,5 @@ i = 0
 end
 
 
-def reduce(array, sv = 0)
+def reduce(array, sv = nil)
 end
