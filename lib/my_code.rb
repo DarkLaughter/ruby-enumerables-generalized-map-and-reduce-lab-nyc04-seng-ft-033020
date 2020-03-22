@@ -15,7 +15,6 @@ end
 def reduce(array, sv=nil)
   if sv
     sum = sv
-    num1 = sv
     i = 0
   else num1 = array[0]
     i = 1
