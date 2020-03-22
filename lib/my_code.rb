@@ -12,5 +12,5 @@ i = 0
 end
 
 
-def redue
+def reduce
 end
