@@ -12,5 +12,5 @@ i = 0
 end
 
 
-def reduce
+def reduce(array, sv = 0)
 end
