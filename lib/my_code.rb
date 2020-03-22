@@ -10,3 +10,7 @@ i = 0
  end
  new
 end
+
+
+def redue
+end
